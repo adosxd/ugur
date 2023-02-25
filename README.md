@@ -1,4 +1,3 @@
-# ugur
 <h1 align="center">Hi 👋, I'm Ugur</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
